@@ -1,0 +1,22 @@
+﻿{
+  "version": "3.0",
+  "header": {
+    "status": "success",
+    "scenario": "smd",
+    "name": "Hey rock at a time for NBC Oslos again June 15th through 19th in Oslo Norway Richard and I will be there of course.",
+    "lexical": "hey rock at a time for nbc oslos again june fifteenth through nineteenth in oslo norway richard and i will be there of course",
+    "properties": {
+      "requestid": "c121f991-ffad-4ded-9ce9-bd041cad0ae9",
+      "HIGHCONF": "1"
+    }
+  },
+  "results": [
+    {
+      "scenario": "smd",
+      "name": "Hey rock at a time for NBC Oslos again June 15th through 19th in Oslo Norway Richard and I will be there of course.",
+      "lexical": "hey rock at a time for nbc oslos again june fifteenth through nineteenth in oslo norway richard and i will be there of course",
+      "confidence": "0.7632182",
+      "properties": { "HIGHCONF": "1" }
+    }
+  ]
+}
